@@ -37,6 +37,8 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
 ## Details Matter 
 We obsess over the small things. We put a lot of thought and care into designing a happy experience for you. Because when learning feels good, you keep coming back.
 
+![gamification + srs](./images/page-5.png) 
+
 ## Ririkku is Perfect For
 - 🌱 Complete beginners who want fun immersion
 - 🧗 Learners stuck in the intermediate plateau
