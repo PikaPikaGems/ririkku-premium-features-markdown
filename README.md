@@ -24,7 +24,7 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
 
 ### Step 3: Stay motivated and study efficiently  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
-- Ririkku keeps it engaging with game-like features like daily quests, visual progress tracking, and meeting friendly monsters as you level up 
+- Ririkku keeps it engaging with game-like features such as daily quests, visual progress tracking, and meeting friendly monsters as you level up 
 - Ririkku uses the latest research-backed algorithm to schedule reviews at the optimal moment—just before you forget—so every study session focuses on what truly needs reinforcement.
 
 ![gamification + srs](./images/page-4b.png) 
