@@ -22,7 +22,7 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
 
 ![Create Study Card and Filter Vocabulary List](./images/page-3.png) 
 
-### Step 3: Stay motivated and study efficiently  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
+### Step 3: Stay Motivated & Study Efficiently ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
 - Ririkku keeps it engaging with game-like features such as daily quests, visual progress tracking, and meeting friendly monsters as you level up 
 - Ririkku uses the latest research-backed algorithm to schedule reviews at the optimal moment—just before you forget—so every study session focuses on what truly needs reinforcement.
@@ -30,9 +30,9 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
 ![gamification + srs](./images/page-4b.png) 
 
 
-### Step 4: Learn Anywhere, anytime
-- Replace mindless scrolling with brief study sessions. From bus rides to grocery lines, turn idle moments into progress. 
-- Repeat steps 1-3 over and over and before you know it, you've already mastered 4,000+ words!
+### Step 4: Learn Anywhere, Anytime
+- Replace mindless scrolling with  meaningful micro-sessions. From bus rides to grocery lines, turn idle moments into progress. 
+- Repeat steps 1-3 over and over and before you know it, you've already mastered 4,000+ words, naturally.
 
 ## Details Matter 
 We obsess over the small things. We put a lot of thought and care into designing a happy experience for you. Because when learning feels good, you keep coming back.
