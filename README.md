@@ -2,6 +2,8 @@
 
 Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium features helps you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
 
+![Main Image](./images/page-1.png)
+
 ##  How It Works
 
 ### Step 1: Enjoy Immersing in Japanese Lyrics ![Free Forever](https://img.shields.io/badge/Free%20-Forever-cyan.svg?color=cyan)
@@ -10,11 +12,15 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
   - Songs are ordered by difficulty ![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
   - Song Statistics: JLPT level breakdown, lyric complexity analysis, and more ![Available Now](https://img.shields.io/badge/Available%20-Now-green.svg?color=green)
   - Comprehension Score: Mark words as known and see how much of a song you truly understand ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
- 
+
+![Song Statistics and Vocabulary Details](./images/page-2.png) 
+
 ### Step 2: Capture What You Want to Remember  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
 - See an interesting line? Turn it into a study card instantly
 - Not sure what to focus on? Follow Ririkku's suggest lyrics and learning order based on high-frequency words and grammar patterns.![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
+
+- ![Create Study Card and Filter Vocabulary List](./images/page-3.png) 
 
 ### Step 3: Stay motivated and study efficiently  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
