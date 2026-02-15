@@ -1,3 +1,11 @@
+![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
+
+![Available Now](https://img.shields.io/badge/Available%20-Now-green.svg?color=green)
+
+![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
+
+![Free Forever](https://img.shields.io/badge/Free%20-Forever-cyan.svg?color=cyan)
+
 # Already love [Ririkku](https://ririkku.com/)? Go Premium.
 
 Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium features helps you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
