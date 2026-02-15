@@ -18,14 +18,17 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium feature
 ### Step 2: Capture What You Want to Remember  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
 - See an interesting line? Turn it into a study card instantly
-- Not sure what to focus on? Follow Ririkku's suggest lyrics and learning order based on high-frequency words and grammar patterns.![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
+- Not sure what to focus on? Follow Ririkku's suggest lyrics and learning order based on high-frequency words and grammar patterns. ![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
 
-- ![Create Study Card and Filter Vocabulary List](./images/page-3.png) 
+![Create Study Card and Filter Vocabulary List](./images/page-3.png) 
 
 ### Step 3: Stay motivated and study efficiently  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
 - Ririkku keeps it engaging with game-like features like daily quests, visual progress tracking, and meeting friendly monsters as you level up 
 - Ririkku uses the latest research-backed algorithm to time reviews when you're about to forget and not waste time on what you've already mastered.
+
+![gamification + srs](./images/page-4b.png) 
+
 
 ### Step 4: Learn Anywhere, anytime
 - Replace mindless scrolling with brief study sessions. From bus rides to grocery lines, turn idle moments into progress. 
