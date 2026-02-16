@@ -1,13 +1,13 @@
 # Already love [Ririkku](https://ririkku.com/)? Go Premium.
 
-Turn Japanese lyrics immersion into measurable growth. Ririkku’s paid Premium-only features help you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
+Turn Japanese lyrics immersion into measurable growth. Ririkku’s Premium-only features help you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
 
 ![Main Image](./images/page-1.png)
 
 ##  How It Works
 
 ### Step 1: Enjoy Immersing in Japanese Lyrics ![Free Forever](https://img.shields.io/badge/Free%20-Forever-cyan.svg?color=cyan)
-- Grammar breakdowns and vocabulary information are just a tap away
+- Grammar breakdowns and vocabulary information are just a tap away ![Available Now](https://img.shields.io/badge/Available%20-Now-green.svg?color=green)
 - Easily find songs that match your skill level. How?
   - Songs are ordered by difficulty ![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
   - Song Statistics: JLPT level breakdown, lyric complexity analysis, and more ![Available Now](https://img.shields.io/badge/Available%20-Now-green.svg?color=green)
