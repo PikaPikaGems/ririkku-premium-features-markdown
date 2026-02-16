@@ -1,6 +1,6 @@
 # Already love [Ririkku](https://ririkku.com/)? Go Premium.
 
-Turn Japanese lyrics immersion into measurable growth. Ririkku's Premium features helps you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
+Turn Japanese lyrics immersion into measurable growth. Ririkku’s paid Premium-only features help you remember more, track real progress, and stay consistent — naturally committing 4,000+ Japanese words to long-term memory.
 
 ![Main Image](./images/page-1.png)
 
