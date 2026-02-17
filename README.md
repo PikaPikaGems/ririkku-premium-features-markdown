@@ -18,7 +18,7 @@ Turn Japanese lyrics immersion into measurable growth. Ririkku’s Premium-only 
 ### Step 2: Capture What You Want to Remember  ![Premium Only](https://img.shields.io/badge/Premium%20-Only-ECD53F.svg?color=ECD53F)
 
 - See an interesting line? Turn it into a study card instantly
-- Not sure what to focus on? Follow Ririkku's suggested lyrics and learning order based on high-frequency words and grammar patterns. ![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
+- Not sure what to focus on? Follow Ririkku’s suggested lyrics and strategic learning order, designed to prioritize high-frequency words and grammar patterns. ![Coming Soon](https://img.shields.io/badge/Coming%20-Soon-cyan.svg?color=F59E0B)
 
 ![Create Study Card and Filter Vocabulary List](./images/page-3.png) 
 
