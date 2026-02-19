@@ -39,12 +39,17 @@ We obsess over the small things. We put a lot of thought and care into designing
 
 ![gamification + srs](./images/page-5.png) 
 
-## Ririkku is Perfect For
-- 🌱 Complete beginners who want fun immersion
-- 🧗 Learners stuck in the intermediate plateau
-- 📚 Self-learners who hate textbooks
-- 📝 JLPT takers who want real-world exposure
-- 🎧 Anime & J-Pop fans who want to understand what they love
+## Ririkku is Built For
+-  🌱 Complete beginners looking for a fun, immersive start
+-  🧗  Those stuck at the intermediate plateau searching for fresh ways to grow
+-  📚 Self-learners who thrive on creative paths to Japanese over traditional classrooms and textbooks routines
+-  📝 JLPT takers seeking genuine native exposure to complement their test prep
+-  🎧 Anime & J-Pop fans aiming to understand the content they love
+- 🔍 People in the mood to spend less time scrolling social feeds by making space for something new and uplifting
+-  💼 Busy adults juggling work, family, and other obligations while still hoping for steady progress
+-  ⏱ Folks with scattered, random pockets of time who need bite-sized learning that rolls with unpredictable everyday chaos
+- ❤️ Anyone who learns best through emotional context and enjoys memorizing words that way
+
 
 ## Join the Waitlist 
-- Message us on [discord](https://discord.gg/Ash8ZrGb4s). We'll send you an early bird discount code if we launch —otherwise, we won’t bother you. 🤐😁. Limited slots only.
+Message us on [discord](https://discord.gg/Ash8ZrGb4s). We'll send you an early bird discount code if we launch —otherwise, we won’t bother you. 🤐😁. Limited slots only.
