@@ -42,7 +42,7 @@ We obsess over the small things. We put a lot of thought and care into designing
 ## Ririkku is Built For
 -  🌱 Complete beginners looking for a fun, immersive start
 -  🧗  Those stuck at the intermediate plateau searching for fresh ways to grow
--  📚 Self-learners who thrive on creative paths to Japanese over traditional classrooms and textbooks routines
+-  📚 Self-learners who prefer creative paths to Japanese over traditional classrooms and textbook routines
 -  📝 JLPT takers seeking genuine native exposure to complement their test prep
 -  🎧 Anime & J-Pop fans aiming to understand the content they love
 - 🔍 People in the mood to spend less time scrolling social feeds by making space for something new and uplifting
@@ -52,4 +52,4 @@ We obsess over the small things. We put a lot of thought and care into designing
 
 
 ## Join the Waitlist 
-Message us on [discord](https://discord.gg/Ash8ZrGb4s). We'll send you an early bird discount code if we launch —otherwise, we won’t bother you. 🤐😁. Limited slots only.
+Message us on [Discord](https://discord.gg/Ash8ZrGb4s). We'll send you an early bird discount code if we launch —otherwise, we won’t bother you. 🤐😁. Limited slots only.
