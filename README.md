@@ -41,7 +41,7 @@ We obsess over the small things. We put a lot of thought and care into designing
 
 ## Ririkku is Built For
 -  🌱 Complete beginners looking for a fun, immersive start
--  🧗  The ones at the intermediate plateau, looking for fresh ways to keep growing
+-  🧗  The ones at the intermediate plateau, searching for fresh ways to keep growing
 -  📚 Self-learners who prefer creative paths to Japanese over traditional classrooms and textbook routines
 -  📝 JLPT takers seeking genuine native exposure to complement their test prep
 -  🎧 Anime & J-Pop fans aiming to understand the content they love
